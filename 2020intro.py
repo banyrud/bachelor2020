@@ -1,1 +1,1 @@
-echo "Our thesis, best thesis!"
+print "Our thesis, best thesis!"
